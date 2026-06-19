@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://obirjasonfilguif.github.io/mainaiyouxi-com-cn-3/sitemap.xml
